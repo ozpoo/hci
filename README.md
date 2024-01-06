@@ -20,7 +20,9 @@
   - Buttons
   - Sliders
   - Inputs
+  - 
   #### Inputs Quiz
+  
 ### Group Exercise
 ### Web Speech API
   - SpeechRecognition
