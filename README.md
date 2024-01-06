@@ -2,8 +2,8 @@
 ## p5.js
   - Basics
   - Inputs Interface
-
-    Used to emulate device inputs (Arduino)
+    
+    <p style="color:blue">Used to emulate device inputs (Arduino)</p>
     
     - Buttons
     - Sliders
