@@ -1,9 +1,10 @@
 # hci
-## p5.js
+## Unit 1 — p5.js
 ### Basics
   - Variable types
   - Loops
   - Functions
+  - Console logs
   - Sketch setup
     - Setup
     - Loop
@@ -22,7 +23,33 @@
   - Fetch data from api
   - Format data response
   - Use data in p5 sketch
-### p5 + Inputs + Web Speech + External API
+### p5 + Inputs Interface + Web Speech + External API
   - Connect all to p5 sketch
 ### Final Project
-  - Create three sketches implementing p5 + Inputs + Web Speech + External API 
+  - Create three sketches
+  - Implement p5 + Inputs Interface + Web Speech + External API 
+## Unit 2 — Arduino
+### Basics
+  - Variable types
+  - Loops
+  - Functions
+  - Console logs
+  - Sketch setup
+    - Setup
+    - Loop
+### Controlling Components
+  - LED
+### Inputs
+  - Exploration
+    - Potentiometer
+    - Switch
+    - IR Distance
+### EMF Meter
+  - Serial Display
+### p5 + Arduino Inputs
+  - Connect all to p5 sketch
+### p5 + Arduino Inputs / Inputs Interface (both accessing same commands) + Web Speech + External API
+  - Connect all to p5 sketch
+### Final Project
+  - Create three sketches
+  - Implement p5 + Arduino Inputs / Inputs Interface + Web Speech + External API 
