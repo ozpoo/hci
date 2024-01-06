@@ -3,9 +3,9 @@
 ### Discovery, Findings, & Response
   - What types of devices often used
   - What types of online media often used
-  #### Group HCI Styles Reserach Methods
-    - Card Sorting
-    - Group analysis
+#### Group HCI Styles Reserach Methods
+  - Card Sorting
+  - Group analysis
 ## Unit 1 — p5.js
 ### Basics
   - Variable types
@@ -15,15 +15,13 @@
   - Sketch setup
     - Setup
     - Loop
-  #### Basics Quiz
+#### Basics Quiz
 ### Inputs Interface
   - Buttons
   - Sliders
   - Inputs
-  - 
-  #### Inputs Quiz
-  
-### Group Exercise
+#### Inputs Quiz
+### Team Inputs Exercise
 ### Web Speech API
   - SpeechRecognition
     - Receive spoken word and convert to text
@@ -31,13 +29,13 @@
     - Analyze spoken word
     - Find associated command
   - Connect commands to p5 sketch
-  #### Web Speech API Quiz
+#### Web Speech API Quiz
 ### Group Exercise
 ### External API Fetching
   - Fetch data from api
   - Format data response
   - Use data in p5 sketch
-  #### External API Fetching Quiz
+#### External API Fetching Quiz
 ### Group Exercise
 ### p5 + Inputs Interface + Web Speech + External API
   - Connect all to p5 sketch
@@ -54,7 +52,7 @@
   - Sketch setup
     - Setup
     - Loop
-  #### Basics Quiz
+#### Basics Quiz
 ### Group Exercise
 ### Controlling Components
   - LED
@@ -64,7 +62,7 @@
     - Potentiometer
     - Switch
     - IR Distance
-  #### Inputs Quiz
+#### Inputs Quiz
 ### Group Exercise
 ### EMF Meter
   - Serial Display
