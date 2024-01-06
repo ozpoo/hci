@@ -95,9 +95,9 @@
   - Connect all to p5 sketch
 ## Unit 3 — Final Project
   ### Reflection & Planning review
-    - What devices / media / implications are you most interested in
-    - What are some ways you could apply this new knowledge to explore those implications
-    - What are 5 ideas of how you could critically explore your device / media / implications interests
+  - What devices / media / implications are you most interested in
+  - What are some ways you could apply this new knowledge to explore those implications
+  - What are 5 ideas of how you could critically explore your device / media / implications interests
   ### Final Project
   - Create three sketches
   - Implement p5 + Arduino Inputs / Inputs Interface + Web Speech + External API 
