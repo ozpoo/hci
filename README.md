@@ -3,7 +3,7 @@
   - Basics
   - Inputs Interface
     
-    <p style="color:blue">Used to emulate device inputs (Arduino)</p>
+    $${\color{gray}Used to emulate device inputs (Arduino)}$$
     
     - Buttons
     - Sliders
